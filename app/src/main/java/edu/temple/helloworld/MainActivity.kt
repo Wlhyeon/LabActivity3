@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
                 displayTextView.text = "Please enter your name"
             }
 
+//
 
-
-    } }
+    }   }
 }
